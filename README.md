@@ -1,50 +1,75 @@
-# ENC 2135 e-Portfolio
+# ENC 2135 ePortfolio – Asher Kasper
 
-This repository contains my electronic writing portfolio for ENC 2135.  
-It showcases my composing process, ability to adapt to different rhetorical situations, and what I have learned about genres, sources, and revision.
+This repository is my electronic writing portfolio for ENC 2135 with Professor Christell Roach.  
+It collects one revised major project, two artifacts that show my composing practices, and a final reflection on what I learned about writing in this course.
+
+---
 
 ## Contents
 
-- **Revised Major Project**
-  - Located in: `revised-project/`
-  - Includes a globally revised version of either Project 1 or Project 2.
-  - This version reflects substantial (global) changes to organization, evidence, and rhetorical strategy, plus local sentence-level editing.
+### 1. Revised Major Project
 
-- **Artifacts of Composing Practices**
-  - Located in: `artifacts/`
-  - At least two artifacts that show how I compose and revise, such as:
-    - In-class activities
-    - Homework assignments
-    - Notes or outlines explaining a concept
-    - Drafts that show how my writing changed over time
-  - Each artifact is paired with a brief description explaining what it shows about my writing process or a specific skill.
+**Project 2: Rhetorical Analysis – "Competing Frames of Truth in the Digital Frontline"**
 
-- **Reflective Statement**
-  - Located in: `reflection/project4-reflection.md`
-  - A minimum 500-word reflection that discusses:
-    - What I learned about **genres** in this course
-    - How I approached **composing** and revising across the three projects
-    - The **rhetorical strategies** I used to address different audiences and purposes
-    - How my understanding of writing has changed over the semester
+- File: [`Rhetorical Analysis Reordered (2).pdf`](revised-project/Rhetorical%20Analysis%20Reordered%20(2).pdf)
+
+This is my globally revised version of Project 2.  
+It analyzes how Ilan Berman and the Tahrir Institute for Middle East Policy use ethos, pathos, and logos in their discussions of information warfare in the Middle East. The revision focuses on clearer structure, stronger topic sentences, and tighter connections between claims and evidence.
+
+---
+
+### 2. Artifacts of Composing Practices
+
+These artifacts show parts of my writing life outside the main projects. They highlight how my interests and experiences connect to my work in this class.
+
+#### Artifact 1: Interest in International Affairs
+
+- File: [`artifact_statement.pdf`](artifacts/artifact_statement.pdf)
+
+This short piece explains how events like the Russian invasion of Ukraine and October 7 shaped my interest in international affairs and diplomacy. It shows how I connect personal background, community, and global politics in reflective writing.
+
+#### Artifact 2: Travel and Global Politics
+
+- File: [`travel_interest_artifact.pdf`](artifacts/travel_interest_artifact.pdf)
+
+This artifact describes how early travel experiences, including sailing in the Virgin Islands and a later trip to Chile during a plebiscite, pushed my curiosity toward global politics and work abroad. It illustrates how I use narrative to link lived experience to academic and career goals.
+
+---
+
+### 3. Project 4 Reflection
+
+- File: [`project4_reflection_updated.pdf`](reflection/project4_reflection_updated.pdf)
+
+This reflection discusses what I took away from the three major projects in ENC 2135. It focuses on:
+
+- How each project required a different approach to writing  
+- What I learned about research and organizing information  
+- How rhetorical analysis changed the way I look at arguments  
+- How the multigenre campaign made me think about design, clarity, and audience  
+- How switching between genres reinforced the idea that writing has to adapt to purpose and context  
+
+---
 
 ## How This Portfolio Meets the Course Outcomes
 
-- **Composing Process**  
-  The revised project and artifacts document my writing process from invention and drafting through global revision and editing. Together they show how I used feedback and reflection to improve my work.
+**Composing Process**  
+The revised rhetorical analysis and the reflection both show that I moved beyond single drafts and relied on planning, reorganization, and editing to shape my work.
 
-- **Adaptability**  
-  The major projects and reflection demonstrate how I adapted my writing to different genres, audiences, and contexts (for example, changing tone, format, and evidence depending on purpose).
+**Adaptability**  
+Across the revised project, artifacts, and Project 3 (multigenre campaign), I wrote for different audiences and in different forms, from academic analysis to reflective narrative and visual digital genres.
 
-- **Use of Sources**  
-  My revised project and reflection show how I select, synthesize, and integrate source material to support my ideas, rather than just dropping in quotes.
+**Use of Sources**  
+The rhetorical analysis demonstrates how I work with sources by summarizing, comparing, and evaluating arguments rather than only quoting them.
 
-- **Citational Conventions & Mechanics**  
-  The revised project uses a consistent citation style and careful attention to grammar, punctuation, and formatting to minimize mechanical errors.
+**Citational Conventions and Mechanics**  
+The revised project and other major assignments use a consistent citation style and careful attention to grammar and formatting.
 
-## Navigation
+---
 
-- `revised-project/` – Final, polished major project  
-- `artifacts/` – Process artifacts and skill development evidence  
-- `reflection/` – Final reflective statement (Project 4)  
-- `assets/` – Any supporting images or documents
+## How to Navigate
 
+- For the revised major project, open the `revised-project` folder.  
+- For composing artifacts, open the `artifacts` folder.  
+- For the final reflection, open the `reflection` folder.  
+
+All core materials are in PDF format for easy viewing and download.
